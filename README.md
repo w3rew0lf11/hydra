@@ -8,7 +8,7 @@ THIS SOFTWARE IS DESTRUCTIVE AND INTENTIONALLY UNKILLABLE
 
 | Property | Value |
 |----------|-------|
-| Safety Rating | 5/5 Skulls |
+| Safety Rating | 💀💀💀💀💀 |
 | System Impact | Complete freeze within 10-15 seconds |
 | Recovery Difficulty | Extreme (requires Safe Mode) |
 | Persistence | Survives reboot and logoff |
